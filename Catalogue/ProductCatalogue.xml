@@ -1,0 +1,55 @@
+<CourseCatalogue>
+<Product id="TEN_BEN_01">
+<ProductDesc>Bengali Notes</ProductDesc>
+<SubjectList>
+<Name>Bengali</Name>
+</SubjectList>
+<Class>TEN</Class>
+<Price>100</Price>
+<SubMonthValue>1</SubMonthValue>
+</Product>
+<Product id="TEN_ENG_01">
+<ProductDesc>English Notes</ProductDesc>
+<SubjectList>
+<Name>English</Name>
+<Price>100</Price>
+</SubjectList>
+<Class>TEN</Class>
+<SubMonthValue>1</SubMonthValue>
+</Product>
+<Product id="TEN_ENG_06">
+<ProductDesc>English Notes</ProductDesc>
+<SubjectList>
+<Name>English</Name>
+</SubjectList>
+<Class>TEN</Class>
+<Price>300</Price>
+<SubMonthValue>6</SubMonthValue>
+</Product>
+<Product id="TEN_ALL_06">
+<ProductDesc>English Notes</ProductDesc>
+<SubjectList>
+<Name>Bengali</Name>
+<Name>English</Name>
+<Name>Mathematics</Name>
+<Name>Science</Name>
+<Name>Social Science</Name>
+</SubjectList>
+<Class>TEN</Class>
+<Price>500</Price>
+<SubMonthValue>6</SubMonthValue>
+</Product>
+<Product id="TEN_ALL_12">
+<ProductDesc>English Notes</ProductDesc>
+<SubjectList>
+<Name>Bengali</Name>
+<Name>English</Name>
+<Name>Mathematics</Name>
+<Name>Science</Name>
+<Name>Social Science</Name>
+</SubjectList>
+<Class>TEN</Class>
+<Price>1000</Price>
+<SubMonthValue>12</SubMonthValue>
+</Product>
+</CourseCatalogue>
